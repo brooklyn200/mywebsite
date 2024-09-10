@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Dogs.co",
+    "description": "",
+    "home_page_url": "https://brooklyn200.github.io/mywebsite",
+    "feed_url": "https://brooklyn200.github.io/mywebsite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Brooklyn"
+    },
+    "items": [
+    ]
+}
